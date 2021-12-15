@@ -1,3 +1,18 @@
+body{
+    font-family: "openDyslexic";
+        src: url(file/resource/39C3CCF920030515B1DBFF22B7D91207394AD65C502267D8.woff);
+    font-family: "openDyslexic";
+        src: url("file/resource/429F001D200303FFF6E56F77B906690AB327C2FC06326420.woff");
+        font-weight: bold;
+    font-family: "openDyslexic";
+        src: url("file/resource/429F0F3E20030EA721321F3491BA3D046063DCDC848F129B.woff");
+        font-style: italic, oblique;
+     font-family: "openDyslexic";
+        src: url("file/resource/429F091E200300ABDC76AFFF8047FF061364FD7C83721D3F.woff");
+        font-weight: bold;
+        font-style: italic, oblique;
+    }
+
 nav,
 .nav {
     color: white;
